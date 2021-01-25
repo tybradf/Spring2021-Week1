@@ -10,5 +10,4 @@ This repository contains:
 - [Activity 2: ML on small data](Prac2_ml_on_small_data.ipynb)
 - [Activity 3: SentinelHub](Prac3_SentinelHub.ipynb)
 
-Welcome poll: https://forms.gle/gYZSD53rB3uukGEz6
-
+Welcome poll: https://forms.gle/PuGm5A2wDKeo8EuD6
